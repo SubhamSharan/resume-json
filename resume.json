@@ -1,0 +1,96 @@
+{
+    "Name": "Subham Sharan",
+    "Contact Information": {
+      "Email": ["subham278119@gmail.com", "sb2156@srmist.edu.in"],
+      "Phone": "+91-8880446545",
+      "LinkedIn": "https://www.linkedin.com/in/subham-sharan-5a3816a0/",
+      "GitHub": "https://github.com/SubhamSharan"
+    },
+    "Education": [
+      {
+        "Degree": "B.Tech in Computer Science and Engineering",
+        "University": "SRM Institute of Science and Technology, Kattankulathur",
+        "Graduation Year": "2025",
+        "Details": "Current CGPA: 8.3"
+      },
+      {
+        "Degree": "XII High School - CBSE",
+        "University": "Navy Children School, Mumbai",
+        "Graduation Year": "2021",
+        "Details": "Percentage: 91"
+      },
+      {
+        "Degree": "X High School - CBSE",
+        "University": "Navy Children School, Mumbai",
+        "Graduation Year": "2019",
+        "Details": "Percentage: 92.4"
+      }
+    ],
+    "Experience": [
+      {
+        "Job Title": "Machine Learning Research Intern",
+        "Company": "IIT Bombay",
+        "Start Date": "01 Feb 2024",
+        "End Date": "Present",
+        "Description": "Contributing to the development of a General Clinical Survey Tool, applying ML expertise for comprehensive analysis and improvement."
+      },
+      {
+        "Job Title": "Web Development Intern",
+        "Company": "Elcome Integrated Systems Pvt. Ltd.",
+        "Start Date": "28 Nov 2023",
+        "End Date": "27 Nov 2024",
+        "Description": "Collaborated with the design team to create visually appealing websites, ensuring a consistent and cohesive brand image. Developed a full-stack project, a clone of Netflix."
+      }
+    ],
+    "Projects": [
+      {
+        "Title": "Anemia Detection",
+        "Description": "Developed a system to detect anemia based on the color of the conjunctiva.",
+        "Tools and Technologies": ["Python", "Machine Learning", "Django Rest API"]
+      },
+      {
+        "Title": "Netflix Clone",
+        "Description": "Replicated the core functionalities of Netflix.",
+        "Tools and Technologies": ["HTML", "CSS", "JavaScript"]
+      },
+      {
+        "Title": "Wine Quality Predictor",
+        "Description": "Predicted wine quality using machine learning.",
+        "Tools and Technologies": ["Python", "Matplotlib", "NumPy", "Pandas", "Neural Networks"]
+      }
+    ],
+    "Skills": [
+      "C", "C++", "Python", "HTML", "CSS", "JavaScript", "Java", "GitHub", "Machine Learning",
+      "REST API", "Django", "Neural Networks", "SQL", "Scikit-learn", "TensorFlow", "Keras",
+      "OpenCV", "SciPy", "PyTorch", "Selenium", "Web Scraping", "Data Analysis"
+    ],
+    "Certifications": [
+      {
+        "Title": "Oracle Certified Foundations Associate",
+        "Issuer": "ORACLE",
+        "Date": "24 June 2024"
+      },
+      {
+        "Title": "AIML Virtual Internship",
+        "Issuer": "AICTE",
+        "Date": "18 Mar 2024"
+      },
+      {
+        "Title": "Machine Learning in Production",
+        "Issuer": "Deeplearning.ai",
+        "Date": "5 May 2024"
+      },
+      {
+        "Title": "AWS Academy Machine Learning Foundations",
+        "Issuer": "Amazon Web Services",
+        "Date": "16 Oct 2023",
+        "ID": "[5635J]"
+      },
+      {
+        "Title": "Networking Basics",
+        "Issuer": "CISCO",
+        "Date": "29 April 2023"
+      }
+    ]
+  }
+  
